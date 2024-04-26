@@ -1,2 +1,4 @@
-# test-button-muk-dev
-A test button component library made in tutorial
+# COMPLI
+
+Compli is short for component library.
+An open source react component library that provides access to a handful of ready to use components.
